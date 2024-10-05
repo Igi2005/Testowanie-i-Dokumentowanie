@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\bin\Debug\Arkusz2.exe.config
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\bin\Debug\Arkusz2.exe
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\bin\Debug\Arkusz2.pdb
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\obj\Debug\Arkusz2.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\obj\Debug\Arkusz2.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\obj\Debug\Arkusz2.exe
+C:\Users\walr\Desktop\testowanie\Arkusz2\Arkusz2\obj\Debug\Arkusz2.pdb
